@@ -12,7 +12,7 @@
 
 *Блоксхема решения*
 
-![Logo](scheme.jng)
+![Logo](scheme.jpg)
 
 
 
